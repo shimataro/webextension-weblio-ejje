@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "weblio-ejje",
+  "description": " Weblio英和辞典・和英辞典（ウェブリオ公認）",
+  "version": "1.0.0",
+  "author": "shimataro",
+  "chrome_settings_overrides": {
+    "homepage": "https://ejje.weblio.jp/",
+    "search_provider": {
+      "name": "Weblio英和辞典・和英辞典",
+      "search_url": "https://ejje.weblio.jp/content/{searchTerms}",
+      "is_default": false,
+      "favicon_url": "https://weblio.hs.llnwd.net/e7/img/favicon/ejje.png"
+    }
+  }
+}

@@ -5,7 +5,6 @@
   "version": "1.0.0",
   "author": "shimataro",
   "chrome_settings_overrides": {
-    "homepage": "https://ejje.weblio.jp/",
     "search_provider": {
       "name": "Weblio英和辞典・和英辞典",
       "search_url": "https://ejje.weblio.jp/content/{searchTerms}",
